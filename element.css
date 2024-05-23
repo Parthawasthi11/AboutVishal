@@ -1,0 +1,36 @@
+body{
+    color: rgb(158, 158, 158);
+    background-image: url("home_sec.jpg");
+    opacity: 100% ;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+
+}
+h1,h2,h3{
+    text-shadow:rgb(20, 20, 20);
+    border-color: black;
+    font-family:'kalam';
+}
+h2,h3,p{
+    background-color: none;
+}
+p,a{
+    color: rgb(158, 158, 158);
+    font-family: 'Shadows Into Light';
+    font-size: larger;
+    font-weight: 400;
+}
+div{
+    font-size: large;
+    font-weight: 300;
+}
+
+li{
+    list-style-type:georgian; 
+}
+a:hover{
+    color:brown ;
+    background-color: burlywood;
+    text-decoration:none;
+}
